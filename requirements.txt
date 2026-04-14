@@ -1,0 +1,13 @@
+# requirements.txt
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.45.0
+peft>=0.10.0
+accelerate>=0.30.0
+deepspeed>=0.14.0
+datasets>=2.19.0
+playwright>=1.40.0
+gradio>=4.0.0
+Pillow>=10.0.0
+wandb>=0.16.0
+pyyaml>=6.0
